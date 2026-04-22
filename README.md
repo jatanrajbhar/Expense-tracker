@@ -2,6 +2,8 @@
 
 A personal finance tracker with a ticket-receipt aesthetic. Log expenses, filter by period, and print a receipt-style summary.
 
+**Live:** https://expense-tracker-nine-mu-69.vercel.app/
+
 ## Tech Stack
 
 - **Frontend** — React 18, Vite, IBM Plex Mono
