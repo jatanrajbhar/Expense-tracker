@@ -1,0 +1,15 @@
+{
+  "expenses": [
+    {
+      "id": "3fcb196f-dffb-4c9d-9400-7875a6573397",
+      "amount_cents": 100000,
+      "category": "vada pav",
+      "description": "vadapav with chutney",
+      "date": "2026-04-22",
+      "created_at": "2026-04-22T06:20:18.671Z"
+    }
+  ],
+  "idempotencyIndex": {
+    "3bdac02e-d13f-40b6-aec1-d7172cd48692": "3fcb196f-dffb-4c9d-9400-7875a6573397"
+  }
+}
